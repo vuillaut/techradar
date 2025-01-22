@@ -11,7 +11,7 @@ technologies and periodically question established technologies and methods.
 But, it is also important to wisely choose which technologies to use in our daily work and in the
 different projects we are carrying out. As we all know: There is no silver bullet.
 
-### What is the AOE Technology Radar?
+### What is the EVERSE Technology Radar?
 
 The Tech Radar provides an overview of different technologies, including languages, frameworks,
 tools, and patterns, as well as platforms, that we consider 'new or noteworthy.' The radar does not
@@ -73,7 +73,5 @@ item belongs, we choose the best fit.
   items here when we believe they should no longer be employed, as we have identified better options
   or alternatives.
 
-### Contributing to the AOE Technology Radar
+### Contributing to the EVERSE Technology Radar
 
-Contributions and source code of the AOE Tech Radar are on
-GitHub: [AOE Tech Radar on GitHub](https://github.com/AOEpeople/aoe_technology_radar)
